@@ -1,0 +1,261 @@
+[
+  {
+    "name": "Bulbasaur",
+    "pokedexNumber": "001",
+    "image": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "height": 0.7,
+    "weight": 6.9,
+    "generation": "Generation I",
+    "baseStatsTotal": 318
+  },
+  {
+    "name": "Charmander",
+    "pokedexNumber": "004",
+    "image": "https://img.pokemondb.net/artwork/charmander.jpg",
+    "types": [
+      "Fire"
+    ],
+    "height": 0.6,
+    "weight": 8.5,
+    "generation": "Generation I",
+    "baseStatsTotal": 309
+  },
+  {
+    "name": "Squirtle",
+    "pokedexNumber": "007",
+    "image": "https://img.pokemondb.net/artwork/squirtle.jpg",
+    "types": [
+      "Water"
+    ],
+    "height": 0.5,
+    "weight": 9,
+    "generation": "Generation I",
+    "baseStatsTotal": 314
+  },
+  {
+    "name": "Pikachu",
+    "pokedexNumber": "025",
+    "image": "https://img.pokemondb.net/artwork/pikachu.jpg",
+    "types": [
+      "Electric"
+    ],
+    "height": 0.4,
+    "weight": 6,
+    "generation": "Generation I",
+    "baseStatsTotal": 320
+  },
+  {
+    "name": "Eevee",
+    "pokedexNumber": "133",
+    "image": "https://img.pokemondb.net/artwork/eevee.jpg",
+    "types": [
+      "Normal"
+    ],
+    "height": 0.3,
+    "weight": 6.5,
+    "generation": "Generation I",
+    "baseStatsTotal": 325
+  },
+  {
+    "name": "Snorlax",
+    "pokedexNumber": "143",
+    "image": "https://img.pokemondb.net/artwork/snorlax.jpg",
+    "types": [
+      "Normal"
+    ],
+    "height": 2.1,
+    "weight": 460,
+    "generation": "Generation I",
+    "baseStatsTotal": 540
+  },
+  {
+    "name": "Dragonite",
+    "pokedexNumber": "149",
+    "image": "https://img.pokemondb.net/artwork/dragonite.jpg",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "height": 2.2,
+    "weight": 210,
+    "generation": "Generation I",
+    "baseStatsTotal": 600
+  },
+  {
+    "name": "Mew",
+    "pokedexNumber": "151",
+    "image": "https://img.pokemondb.net/artwork/mew.jpg",
+    "types": [
+      "Psychic"
+    ],
+    "height": 0.4,
+    "weight": 4,
+    "generation": "Generation I",
+    "baseStatsTotal": 600
+  },
+  {
+    "name": "Chikorita",
+    "pokedexNumber": "152",
+    "image": "https://img.pokemondb.net/artwork/chikorita.jpg",
+    "types": [
+      "Grass"
+    ],
+    "height": 0.9,
+    "weight": 6.4,
+    "generation": "Generation II",
+    "baseStatsTotal": 318
+  },
+  {
+    "name": "Cyndaquil",
+    "pokedexNumber": "155",
+    "image": "https://img.pokemondb.net/artwork/cyndaquil.jpg",
+    "types": [
+      "Fire"
+    ],
+    "height": 0.5,
+    "weight": 7.9,
+    "generation": "Generation II",
+    "baseStatsTotal": 309
+  },
+  {
+    "name": "Totodile",
+    "pokedexNumber": "158",
+    "image": "https://img.pokemondb.net/artwork/totodile.jpg",
+    "types": [
+      "Water"
+    ],
+    "height": 0.6,
+    "weight": 9.5,
+    "generation": "Generation II",
+    "baseStatsTotal": 314
+  },
+  {
+    "name": "Marill",
+    "pokedexNumber": "183",
+    "image": "https://img.pokemondb.net/artwork/marill.jpg",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "height": 0.4,
+    "weight": 8.5,
+    "generation": "Generation II",
+    "baseStatsTotal": 250
+  },
+    {
+    "name": "Sudowoodo",
+    "pokedexNumber": "185",
+    "image": "https://img.pokemondb.net/artwork/sudowoodo.jpg",
+    "types": [
+      "Rock"
+    ],
+    "height": 1.2,
+    "weight": 38,
+    "generation": "Generation II",
+    "baseStatsTotal": 410
+  },
+  {
+    "name": "Wooper",
+    "pokedexNumber": "194",
+    "image": "https://img.pokemondb.net/artwork/wooper.jpg",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "height": 0.4,
+    "weight": 8.5,
+    "generation": "Generation II",
+    "baseStatsTotal": 210
+  },
+  {
+    "name": "Houndour",
+    "pokedexNumber": "228",
+    "image": "https://img.pokemondb.net/artwork/houndour.jpg",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "height": 0.6,
+    "weight": 10.8,
+    "generation": "Generation II",
+    "baseStatsTotal": 330
+  },
+  {
+    "name": "Phanpy",
+    "pokedexNumber": "231",
+    "image": "https://img.pokemondb.net/artwork/phanpy.jpg",
+    "types": [
+      "Ground"
+    ],
+    "height": 0.5,
+    "weight": 33.5,
+    "generation": "Generation II",
+    "baseStatsTotal": 330
+  },
+  {
+    "name": "Treecko",
+    "pokedexNumber": "252",
+    "image": "https://img.pokemondb.net/artwork/treecko.jpg",
+    "types": [
+      "Grass"
+    ],
+    "height": 0.5,
+    "weight": 5,
+    "generation": "Generation III",
+    "baseStatsTotal": 310
+  },
+  {
+    "name": "Torchic",
+    "pokedexNumber": "255",
+    "image": "https://img.pokemondb.net/artwork/torchic.jpg",
+    "types": [
+      "Fire"
+    ],
+    "height": 0.4,
+    "weight": 2.5,
+    "generation": "Generation III",
+    "baseStatsTotal": 310
+  },
+  {
+    "name": "Mudkip",
+    "pokedexNumber": "258",
+    "image": "https://img.pokemondb.net/artwork/mudkip.jpg",
+    "types": [
+      "Water"
+    ],
+    "height": 0.4,
+    "weight": 7.6,
+    "generation": "Generation III",
+    "baseStatsTotal": 310
+  },
+  {
+    "name": "Gardevoir",
+    "pokedexNumber": "282",
+    "image": "https://img.pokemondb.net/artwork/gardevoir.jpg",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "height": 1.6,
+    "weight": 48.4,
+    "generation": "Generation III",
+    "baseStatsTotal": 518
+  },
+  {
+    "name": "Sableye",
+    "pokedexNumber": "302",
+    "image": "https://img.pokemondb.net/artwork/sableye.jpg",
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "height": 0.5,
+    "weight": 11,
+    "generation": "Generation III",
+    "baseStatsTotal": 380
+  }
+]
