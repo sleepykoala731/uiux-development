@@ -2,7 +2,7 @@ import "./App.css";
 import { useEffect, useState } from "react";
 import pokemonData from "./assets/pokemon-data.json";
 import Pokemon from "./components/Pokemon";
-import { Card, Col, Container, Form, ListGroup, Row } from "react-bootstrap";
+import { Button, Card, Col, Container, Form, ListGroup, Row } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
@@ -53,6 +53,14 @@ function App() {
     }
     setPokemonList(filteredPokemon);
   }, [sortMode, filteredTypes, filteredGenerations]);
+
+  // function to reset the filter lists and unselect all checkboxes
+  const resetFilters = () => {
+    setFilteredTypes([]);
+    setFilteredGenerations([]);
+    const checkboxes = document.querySelectorAll("input[type=checkbox]");
+    checkboxes.forEach((checkbox) => (checkbox.checked = false));
+  };
 
   return (
     <div className="App">
@@ -146,6 +154,7 @@ function App() {
             ))}
           </Form>
       </div>
+      <Button variant="danger" onClick={resetFilters}>Reset Filters</Button>
       </Card>
       </Container>
       </Col>
