@@ -2,7 +2,7 @@ import "./App.css";
 import { useEffect, useState } from "react";
 import pokemonData from "./assets/pokemon-data.json";
 import Pokemon from "./components/Pokemon";
-import { Button, Card, Col, Container, Form, ListGroup, Row } from "react-bootstrap";
+import { Card, Col, Container, Form, ListGroup, Row } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
